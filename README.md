@@ -4,7 +4,7 @@
 This project focuses on detecting fraudulent transactions in the Ethereum network using both traditional machine learning models and deep learning techniques. By analyzing transaction attributes and interaction patterns, we aim to develop an effective fraud detection model.
 
 ## Dataset
-- **Source:** (Kaggle - Ethereum Fraud Detection Dataset)[https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset/data]
+- **Source:** [Kaggle - Ethereum Fraud Detection Dataset](https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset/data)
 - **Size:** 9,842 transactions, 51 attributes
 - **Target Variable:** `FLAG` (0: Valid, 1: Fraudulent)
 - **Feature Categories:**
